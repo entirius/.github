@@ -1,23 +1,18 @@
 ---
 name: Feature request
-about: Suggest an idea or improvement
+about: An idea for the platform
 title: ""
 labels: enhancement
 assignees: ""
 ---
 
+<!-- We read every request. The roadmap is set by the core team (see CONTRIBUTING) —
+     a good problem statement influences it far more than a finished design. -->
+
 ## Problem
 
-<!-- What problem are you trying to solve? Why does it matter? -->
+<!-- What can't you do today, and why does it matter? -->
 
-## Proposed solution
+## Proposal
 
-<!-- What would you like to happen? -->
-
-## Alternatives considered
-
-<!-- Other approaches you've thought about. -->
-
-## Additional context
-
-<!-- Any other context, references, or examples. -->
+<!-- What should happen instead? -->

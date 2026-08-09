@@ -1,35 +1,23 @@
 ---
 name: Bug report
-about: Report a defect so we can fix it
+about: Something is broken in the platform
 title: ""
 labels: bug
 assignees: ""
 ---
 
-## Description
+## What happened
 
-<!-- A clear description of the bug. -->
+<!-- Include the error output or traceback — it's the fastest path to a fix. -->
 
-## Steps to reproduce
+## How to reproduce
 
 1.
-2.
-3.
 
-## Expected behavior
-
-<!-- What you expected to happen. -->
-
-## Actual behavior
-
-<!-- What actually happened, including error output or tracebacks. -->
+## What you expected
 
 ## Environment
 
 - Repository / version (tag or commit):
 - Python version:
 - OS:
-
-## Additional context
-
-<!-- Anything else that helps: logs, screenshots, related issues. -->

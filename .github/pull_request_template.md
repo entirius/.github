@@ -1,6 +1,4 @@
-## Summary
-
-<!-- What does this change do, and why? -->
+## What & why
 
 ## Related issues
 
@@ -8,9 +6,7 @@
 
 ## Checklist
 
-- [ ] Targets `develop` (not `master`), branch name is lowercase-kebab
-- [ ] `make check` passes (lint + format)
-- [ ] `make test` passes (migration drift + tests)
-- [ ] pre-commit passes (ruff, MPL license header, secret scan)
-- [ ] English only; no secrets or credentials committed
-- [ ] `CHANGELOG.md` updated if the change is user-facing
+- [ ] Targets `develop`, branch name lowercase-kebab
+- [ ] `make check` and `make test` pass
+- [ ] pre-commit passes (ruff, MPL header, secret scan)
+- [ ] English only; `CHANGELOG.md` updated if the change is user-facing

@@ -1,31 +1,27 @@
 # Security Policy
 
-We take the security of Entirius seriously and appreciate responsible disclosure.
+E-commerce platforms are a target. If you found a hole in ours, we want to hear about
+it — privately.
 
 ## Reporting a vulnerability
 
-**Do not open a public issue for security vulnerabilities.**
+**Never open a public issue for a security problem.** Report it one of two ways:
 
-Please report privately using one of:
+- **GitHub private vulnerability reporting** (preferred) — the repository's **Security**
+  tab → **Report a vulnerability**.
+- **Email** — [opensource@entirius.com](mailto:opensource@entirius.com).
 
-- **GitHub private vulnerability reporting** — open the repository's **Security** tab and
-  choose **Report a vulnerability** (preferred).
-- **Email** — [opensource@entirius.org](mailto:opensource@entirius.org).
-
-Include, where possible:
-
-- affected repository and version (tag or commit),
-- a description of the issue and its impact,
-- steps to reproduce or a proof of concept,
-- any suggested remediation.
+Tell us what you found: affected repository and version (tag or commit), the impact,
+and steps to reproduce or a proof of concept. A suggested fix is welcome, not required.
 
 ## What to expect
 
-- Acknowledgement of your report within **3 business days**.
-- An assessment and, if confirmed, a remediation plan with a target timeline.
-- Credit for the disclosure once a fix is released, unless you prefer to remain anonymous.
+- First response within a few business days.
+- If confirmed: a remediation plan with a target date, and updates until it ships.
+- Credit in the release notes — unless you prefer to stay anonymous.
 
 ## Supported versions
 
-Security fixes target the **latest released version** of each repository. Older versions
-are supported only where explicitly stated in that repository.
+Security fixes target the **latest released version** of each repository. Older
+versions only where a repository explicitly says so. If you're running stale versions
+of an e-commerce stack, the fix you need most is an upgrade.

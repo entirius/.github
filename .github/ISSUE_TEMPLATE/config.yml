@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Documentation
+    url: https://docs.entirius.com
+    about: Architecture, module docs, guides, API reference — check before filing.
   - name: Security vulnerability
     url: https://github.com/entirius/.github/security/policy
-    about: Report security issues privately — do not open a public issue.
+    about: Report privately — never in a public issue.

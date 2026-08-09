@@ -7,7 +7,7 @@ repository that does not provide its own version.
 |---|---|
 | `profile/README.md` | Organization profile shown on the org page |
 | `CONTRIBUTING.md` | Default contribution guidelines |
-| `CODE_OF_CONDUCT.md` | Default code of conduct (Contributor Covenant 2.1) |
+| `CODE_OF_CONDUCT.md` | Default code of conduct |
 | `SECURITY.md` | Default security / vulnerability disclosure policy |
 | `SUPPORT.md` | Where to get help |
 | `.github/pull_request_template.md` | Default pull request template |
