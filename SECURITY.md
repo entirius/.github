@@ -9,7 +9,7 @@ it — privately.
 
 - **GitHub private vulnerability reporting** (preferred) — the repository's **Security**
   tab → **Report a vulnerability**.
-- **Email** — [opensource@entirius.com](mailto:opensource@entirius.com).
+- **Email** — [hello@entirius.com](mailto:hello@entirius.com).
 
 Tell us what you found: affected repository and version (tag or commit), the impact,
 and steps to reproduce or a proof of concept. A suggested fix is welcome, not required.
